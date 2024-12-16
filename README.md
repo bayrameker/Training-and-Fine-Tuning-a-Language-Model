@@ -35,7 +35,7 @@ This project demonstrates training and fine-tuning a language model using the **
 ### Installing Dependencies
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/unsloth-fine-tuning.git
+   git clone [https://github.com/your-repo/unsloth-fine-tuning.git](https://github.com/bayrameker/Training-and-Fine-Tuning-a-Language-Model)
    cd unsloth-fine-tuning
    ```
 
